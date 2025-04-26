@@ -20,7 +20,4 @@ My name is Hammad and I’m a Full Stack Engineer with expertise in Angular 13+,
 ---
 [![](https://visitcount.itsvg.in/api?id=captainhammad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/captainhammad)  
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
