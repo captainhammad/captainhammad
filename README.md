@@ -32,7 +32,7 @@ Before we get to the GitHub stats, I should probably say hi!
 Hey there 👋. I’m **Hammad**, a **Full Stack Engineer with 5+ years of experience**.  
 I specialize in **Angular, Next.js, React, Ionic, Node.js (NestJS/hapi.js), GraphQL, and MongoDB**, building scalable web & mobile apps.  
 Right now, I’m exploring **GraphQL + Mongoose** for optimized data management and expanding my **AWS** knowledge.  
-Best way to reach me is by email or Discord. 🚀  
+Best way to reach me is by email or LinkedIn. 🚀  
 
 </div>
 
