@@ -9,17 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=A78BFA&center=true&vCenter=true&width=720&height=40&lines=Full+Stack+Engineer+%E2%80%A2+5%2B+Years;Angular+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+GraphQL;Building+scalable+web+%26+mobile+apps" alt="Subtitle" />
 </div>
 
-<!-- BADGES -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=captainhammad&label=Profile+Views&color=22d3ee&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/captainhammad?label=Followers&style=flat-square&color=22d3ee&labelColor=0d1117" />
-  <a href="mailto:hammad1019ali786@gmail.com">
-    <img src="https://img.shields.io/badge/Open%20to%20Work-22d3ee?style=flat-square&logo=googlemeet&logoColor=white" />
-  </a>
-</div>
-
-<br />
-
 ---
 
 <!-- WHOAMI — PREMIUM macOS TERMINAL -->
