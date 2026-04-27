@@ -2,7 +2,7 @@
      HAMMAD ALI · GITHUB PROFILE
      ===================================================== -->
 
-<!-- ANIMATED HEADER (no more flaky banner) -->
+<!-- ANIMATED HEADER -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=44&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&height=70&lines=Hey%2C+I'm+Hammad+%F0%9F%91%8B" alt="Hey, I'm Hammad" />
   <br />
@@ -22,57 +22,16 @@
 
 ---
 
-<!-- WHOAMI — TWO-COLUMN BIO + STACK CARD -->
+<!-- WHOAMI — PREMIUM macOS TERMINAL -->
 ## 🧠  whoami
 
-<table>
-<tr>
-<td valign="top" width="48%">
-
-### 👋 Hey, I'm Hammad
-
-**Full Stack Engineer · 5+ years**
-
-I build scalable **web & mobile** applications end-to-end — from architecture decisions to pixel-perfect UI.
-
-🌱 Currently exploring **AWS** & **GraphQL × Mongoose**  
-🔒 Most of my best work lives in private repos  
-💬 Ping me — happy to walk through past work  
-
-📧 [hammad1019ali786@gmail.com](mailto:hammad1019ali786@gmail.com)  
-💼 [linkedin.com/in/hammadev](https://www.linkedin.com/in/hammadev/)
-
-</td>
-<td valign="top" width="52%">
-
-```yaml
-stack:
-  frontend:
-    - Angular
-    - React + Next.js
-    - Ionic
-    - TypeScript
-  backend:
-    - Node.js + NestJS
-    - hapi.js + Express
-    - GraphQL + Apollo
-  database:
-    - MongoDB + Mongoose
-    - MySQL
-    - Redis
-  cloud:
-    - AWS
-    - Docker
-    - GitHub Actions
-```
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="./terminal.svg" alt="hammad — macOS terminal" width="100%" />
+</div>
 
 <br />
 
-<!-- TECH ARSENAL — NO TABLE, TIGHTER LAYOUT -->
+<!-- TECH ARSENAL -->
 ## ⚡  Tech Arsenal
 
 <div align="center">
@@ -85,7 +44,7 @@ stack:
 
 <br />
 
-<!-- STATS — REMOVED count_private/include_all_commits THAT WERE FAILING -->
+<!-- STATS -->
 ## 📊  By the Numbers
 
 <div align="center">
