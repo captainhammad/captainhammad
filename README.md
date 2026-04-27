@@ -1,18 +1,15 @@
-<!-- ============================================================
+<!-- =====================================================
      HAMMAD ALI · GITHUB PROFILE
-     ============================================================ -->
+     ===================================================== -->
 
-<!-- HERO BANNER -->
-<a href="https://github.com/captainhammad">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=240&section=header&text=Hammad%20Ali&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=70&animation=fadeIn&desc=Full+Stack+Engineer+%E2%80%A2+Web+%26+Mobile+%E2%80%A2+5%2B+Years&descAlign=50&descAlignY=60&descSize=16" alt="Hammad Ali — Full Stack Engineer" />
-</a>
-
-<!-- TYPING SUBTITLE -->
+<!-- ANIMATED HEADER (no more flaky banner) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=Hey+there+%F0%9F%91%8B+I'm+Hammad;I+turn+coffee+into+scalable+apps;Angular+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+GraphQL;Currently+exploring+AWS+%26+Mongoose+at+depth" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=44&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&height=70&lines=Hey%2C+I'm+Hammad+%F0%9F%91%8B" alt="Hey, I'm Hammad" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=A78BFA&center=true&vCenter=true&width=720&height=40&lines=Full+Stack+Engineer+%E2%80%A2+5%2B+Years;Angular+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+GraphQL;Building+scalable+web+%26+mobile+apps" alt="Subtitle" />
 </div>
 
-<!-- TOP BADGES -->
+<!-- BADGES -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=captainhammad&label=Profile+Views&color=22d3ee&style=flat-square" />
   <img src="https://img.shields.io/github/followers/captainhammad?label=Followers&style=flat-square&color=22d3ee&labelColor=0d1117" />
@@ -25,95 +22,84 @@
 
 ---
 
+<!-- WHOAMI — TWO-COLUMN BIO + STACK CARD -->
 ## 🧠  whoami
 
-```ts
-const hammad: Developer = {
-  alias:      "hammadev",
-  role:       "Full Stack Engineer",
-  experience: "5+ years",
-  stack: {
-    frontend: ["Angular", "React", "Next.js", "Ionic", "TypeScript"],
-    backend:  ["Node.js", "NestJS", "hapi.js", "Express", "GraphQL"],
-    database: ["MongoDB", "Mongoose", "MySQL", "Redis"],
-    cloud:    ["AWS", "Docker", "GitHub Actions"],
-  },
-  learning:   ["GraphQL × Mongoose patterns", "Deeper AWS architecture"],
-  philosophy: "Ship small. Ship often. Stay curious.",
-  funFact:    "Most of my best work lives in private repos — ping me, I'll walk you through it.",
-};
+<table>
+<tr>
+<td valign="top" width="48%">
+
+### 👋 Hey, I'm Hammad
+
+**Full Stack Engineer · 5+ years**
+
+I build scalable **web & mobile** applications end-to-end — from architecture decisions to pixel-perfect UI.
+
+🌱 Currently exploring **AWS** & **GraphQL × Mongoose**  
+🔒 Most of my best work lives in private repos  
+💬 Ping me — happy to walk through past work  
+
+📧 [hammad1019ali786@gmail.com](mailto:hammad1019ali786@gmail.com)  
+💼 [linkedin.com/in/hammadev](https://www.linkedin.com/in/hammadev/)
+
+</td>
+<td valign="top" width="52%">
+
+```yaml
+stack:
+  frontend:
+    - Angular
+    - React + Next.js
+    - Ionic
+    - TypeScript
+  backend:
+    - Node.js + NestJS
+    - hapi.js + Express
+    - GraphQL + Apollo
+  database:
+    - MongoDB + Mongoose
+    - MySQL
+    - Redis
+  cloud:
+    - AWS
+    - Docker
+    - GitHub Actions
 ```
 
+</td>
+</tr>
+</table>
+
 <br />
 
+<!-- TECH ARSENAL — NO TABLE, TIGHTER LAYOUT -->
 ## ⚡  Tech Arsenal
 
-<table align="center">
-  <tr>
-    <td align="right"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,html,css&perline=10" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,materialui&perline=10" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,apollo&perline=10" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Database</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&perline=10" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Cloud / DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,docker,githubactions&perline=10" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Workflow</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,bitbucket,figma&perline=10" /></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,angular,react,nextjs,tailwind,materialui&perline=9" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,apollo,mongodb,mysql,redis&perline=9" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,bitbucket,figma&perline=9" />
+</div>
 
 <br />
 
-## 🎯  Currently
-
-<table>
-  <tr>
-    <td>🌱</td>
-    <td>Diving into <b>GraphQL + Mongoose</b> for optimized data flows</td>
-  </tr>
-  <tr>
-    <td>🔭</td>
-    <td>Going deeper into <b>AWS</b> infrastructure and serverless patterns</td>
-  </tr>
-  <tr>
-    <td>🤝</td>
-    <td>Open to interesting full-stack collaborations</td>
-  </tr>
-  <tr>
-    <td>💬</td>
-    <td>Reach me via <b>email</b> or <b>LinkedIn</b> — happy to walk through past work</td>
-  </tr>
-</table>
-
-<br />
-
+<!-- STATS — REMOVED count_private/include_all_commits THAT WERE FAILING -->
 ## 📊  By the Numbers
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=captainhammad&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=ffffff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=captainhammad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=ffffff" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=captainhammad&theme=tokyonight&hide_border=true&background=0d1117&stroke=22d3ee&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainhammad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=ffffff&include_all_commits=true&count_private=true&langs_count=8" />
-  <img height="170" src="https://github-profile-trophy.vercel.app/?username=captainhammad&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=10&margin-h=10" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captainhammad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=ffffff&langs_count=8" />
 </div>
 
 <br />
 
+<!-- ACTIVITY GRAPH -->
 ## 📈  Contribution Activity
 
 <div align="center">
@@ -122,14 +108,7 @@ const hammad: Developer = {
 
 <br />
 
-## 💡  Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<br />
-
+<!-- CONNECT -->
 ## 🤝  Let's Connect
 
 <div align="center">
@@ -144,11 +123,7 @@ const hammad: Developer = {
   </a>
 </div>
 
-<br />
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=120&section=footer" />
-
 <div align="center">
+  <br />
   <i>Thanks for stopping by — let's build something cool. ✨</i>
 </div>
