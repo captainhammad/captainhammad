@@ -46,7 +46,7 @@
 ## 📈  Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=captainhammad&theme=tokyo-night&bg_color=0d1117&color=22d3ee&line=22d3ee&point=ffffff&hide_border=true&area=true" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution chart" />
 </div>
 
 <br />
