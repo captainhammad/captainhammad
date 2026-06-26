@@ -42,15 +42,6 @@
 
 <br />
 
-<!-- ACTIVITY GRAPH -->
-## 📈  Contribution Activity
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution chart" />
-</div>
-
-<br />
-
 <!-- CONNECT -->
 ## 🤝  Let's Connect
 
